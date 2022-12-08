@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Beauty Archives &ndash; Nicola Bonn</title>
-	<atom:link href="/category/beauty/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/beauty/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>A Beautiful Story</description>
 	<lastBuildDate>Wed, 17 Jan 2018 05:52:15 +0000</lastBuildDate>
 	<language>en-GB</language>

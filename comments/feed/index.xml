@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments for Nicola Bonn	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>A Beautiful Story</description>
 	<lastBuildDate>Wed, 17 Jan 2018 05:52:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
